@@ -1,3 +1,3 @@
-## DOCUMENTATION
+## 📓 DOCUMENTATION
 
-see the [Wiki](https://github.com/easyphp/documentation-devserver/wiki)
+See the [Wiki](https://github.com/easyphp/documentation-devserver/wiki)
